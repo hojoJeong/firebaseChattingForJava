@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418669375882",
+    "project_id": "startcampchatting-34525",
+    "storage_bucket": "startcampchatting-34525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418669375882:android:d35a2c050d32bd77d01873",
+        "android_client_info": {
+          "package_name": "com.ssafy.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418669375882-6rgd82tsj3tvkk3hed69mm1i9ts8invf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDVk8d3Mdr4BlivMWP5RZ4S2ck5Qu3SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418669375882-6rgd82tsj3tvkk3hed69mm1i9ts8invf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
